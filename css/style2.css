@@ -3,7 +3,7 @@ body {
 }
 
 #rbd {
-  position: fixed;
+  position: float;
   top: 50%;
   left: 50%;
   margin-top: -50px;
@@ -12,7 +12,7 @@ body {
 
 }
 #rbd:hover {
-    background-image: url('rbdroll.png');
+    background-image: ('rbdroll.png');
     height: 100%;
     width: 100%;
 }
