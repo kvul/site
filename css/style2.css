@@ -3,7 +3,7 @@ body {
 }
 
 #rbd {
-  background-image: url('https://raw.githubusercontent.com/kvul/site/master/rbd.png');
+  background-image: url('site/rbd.png');
   position: absolute;
   top: 50%;
   left: 50%;
@@ -13,6 +13,6 @@ body {
 
 }
 #rbd:hover {
-    background-image: url('https://raw.githubusercontent.com/kvul/site/master/rbdroll.png');
+    background-image: url('site/rbdroll.png');
 }
 
