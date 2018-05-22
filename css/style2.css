@@ -3,6 +3,7 @@ body {
 }
 
 #rbd {
+  background-image: url('https://raw.githubusercontent.com/kvul/site/master/rbd.png');
   position: absolute;
   top: 50%;
   left: 50%;
