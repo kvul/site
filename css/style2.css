@@ -3,7 +3,7 @@ body {
 }
 
 #rbd {
-  position: float;
+  position: absolute;
   top: 50%;
   left: 50%;
   margin-top: -50px;
