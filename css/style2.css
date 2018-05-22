@@ -12,6 +12,6 @@ body {
 
 }
 #rbd:hover {
-    background-image: url(rbdroll.png);
+    background-image: url('https://raw.githubusercontent.com/kvul/site/master/rbdroll.png');
 }
 
