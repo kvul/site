@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://laughing-keller-4b8bee.netlify.com/* http://rbd.isamotherfucking.ninja/:splat 301!
